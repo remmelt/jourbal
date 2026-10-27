@@ -12,6 +12,7 @@ Personal journaling app for macOS and iOS. The Mac is for longform writing, the 
 - [`DESIGN.md`](DESIGN.md): product brief, data model, screens.
 - [`AGENTS.md`](AGENTS.md): architecture (hexagonal, Swift packages), conventions, tooling.
 - [`design/`](design/): exported mockups.
+- [`docs/design-review.md`](docs/design-review.md): open issues, contradictions, build plan.
 
 ## Status
 
